@@ -19,4 +19,4 @@ const reducer = (state=initialState, action) => {
     }
 }
 
-export default Reducer
+export default reducer
