@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# install dependencies:
+
+- npm i redux react-redux redux-thunk axios
 
 ## Available Scripts
 
